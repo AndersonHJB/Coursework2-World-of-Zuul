@@ -1,0 +1,32 @@
+[SpecialItem]:
+bathroom
+0
+toilet
+false
+UNUSED
+That’s an awfully bright toilet, maybe I should enter it. Hmm.. it seems to be locked, I need a key.
+false
+0
+false
+5
+10
+0
+true
+door,west
+toilet
+[SpecialItem]:
+bottom middle of the room
+1
+telephone box
+false
+UNUSED
+OMG!
+false
+0
+false
+5
+10
+0
+true
+telephone box,south
+telephone box

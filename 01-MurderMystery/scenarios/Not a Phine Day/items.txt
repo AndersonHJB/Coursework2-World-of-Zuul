@@ -1,0 +1,214 @@
+[Item]:
+garden
+1
+rusty key
+true
+You pick up a rusty key.
+These are some old rusty looking keys.
+false
+2
+false
+5
+10
+0
+[Item]:
+garden
+2
+flowers
+true
+You pick up a beautiful bouquet of flowers.
+Those are some great looking flowers, i could bring back a bouquet to my darling wife, once i solve this mystery..
+false
+4
+false
+5
+10
+0
+[Item]:
+bathroom
+3
+body
+false
+UNUSED
+Such a shame, Agnes known for her beauty resembling from her mother, now had a face with multiple cuts. A bit of dust is around her face, could be anything from flour to baby powder *sniff* hmm some sort of poison, fits the case, it has a very distinctive smell.
+false
+0
+false
+5
+10
+0
+[Item]:
+bathroom
+4
+toilet paper
+true
+You pick up some toilet paper.
+Hmm, appropriately placed toilet paper. It would be a shame, if someone, stole it.   
+false
+1
+false
+5
+10
+0
+[Item]:
+upstairs hall
+5
+whiskey
+true
+You pick up the whiskey.
+A bottle of whiskey on the floor in hallway on the 1st floor, who could be leaving such a beauty there? *drink* ahh… that’s the stuff. Oh, better get back to work, otherwise I’ll be spending all my time here. I’ll take it with me for later.
+false
+3
+true
+5
+10
+30
+[Item]:
+bedroom
+6
+bloody knife
+true
+You pick up the bloody knife.
+A knife wrapped in a handkerchief soaked in blood... in Mr. Phein’s room... the knife seems to also have some powder on it. It looks like the same powder as the one on the body. *sniff*, yeah this is ratpoison. Odd to find something like that in his room, I wonder who dropped this here. Better bring it with me.
+true
+0
+false
+5
+10
+0
+[Item]:
+bedroom
+7
+plasma tv
+true
+You pick up a Plasma TV.
+Hmm, very fine and expensive looking plasma TV. Might be worth something.
+false
+7
+false
+5
+10
+0
+[Item]:
+kitchen
+8
+empty knifeholder
+false
+UNUSED
+Hmm, an empty knifeholder in the kitchen. Wonder where the knife is?
+false
+0
+false
+5
+10
+0
+[Item]:
+kitchen
+9
+rat poison
+true
+You pick up the rat poison.
+Odd to find an empty bottle of rat poison in the kitchen, the powdery substance matches the one found by the body. The amount is rather small to cause the murder. *Sniff* ratpoison, I can always tell, ratpoison has a very distinct smell. I definitely should bring this with me.  
+true
+0
+false
+5
+10
+0
+[Item]:
+kitchen
+10
+apple
+true
+You pick up an apple.
+Hmm, a delicious red apple. Wonder if it has anything to do with the murder?
+false
+1
+false
+5
+10
+0
+[Item]:
+garden
+11
+golf club
+true
+You pick up a golf club.
+A golf club in the garden, doesn’t seems suspicious so far. There is no blood on it, and it seems to be clean and shiny, yet it has been left alone in the garden. I do like golf, maybe I should “confiscate the evidence” and inconspicuously bring this back home.
+true
+0
+false
+5
+10
+0
+[Item]:
+upstairs hall
+12
+rope
+true
+You pick up a rope.
+A rope with a tied knot, not usually something you’d find in a hallway on the 2nd hall. Perhaps someone were trying to off themselves out of guilt. Only Agnes and Mr. Phein lives here. Interesting case, we better include this one.  
+true
+0
+false
+5
+10
+0
+[Item]:
+library
+14
+pistol
+true
+You pick up a pistol.
+Finding a pistol in the library, odd place to find a pistol. All bullets are still in the case, but no bullets or gunpowder were found by the scene. It didn’t seem to have caused the murder, yet I’m gonna have to add this one, I can’t have the murderer using this on me.
+true
+0
+false
+5
+10
+0
+[Item]:
+library
+15
+odd book
+true
+You pick up a book.
+Hmm, that's curious. A crime book about a murder happening in a mansion at a dinner party, just like this! That's a bit odd.
+false
+2
+false
+5
+10
+0
+[Item]:
+dungeon
+16
+rat corpse
+true
+You pick up a rat corpse.
+Ew, a disgusting rat corpse.. Looks like it has been lying here for quite some time now.
+false
+3
+false
+5
+10
+0
+[Item]:
+dungeon
+17
+skull
+true
+You pick up a human skull.
+Hmm, a human skull. I wonder what sick history this mansion has, surely this can only mean that another murder has happened here in the past.
+false
+5
+false
+5
+10
+0
+[Secret Room]:
+carpet,trapdoor,dungeon
+[Secret Room]:
+bookshelf,door,secret room
+[Locked Door]:
+rusty key,garden,kitchen

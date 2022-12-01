@@ -1,0 +1,32 @@
+[SpecialItem]:
+ballroom
+0
+carpet
+false
+UNUSED
+Hmm, that’s a ugly carpet compared to the rest of this mansion. *Wind gushing from the open windows* suddenly a trapdoor became visible as the wind grabbed a bit of the carpet. I open the door, it reveals a staircase.
+false
+0
+false
+5
+10
+0
+true
+dungeon,south
+dungeon
+[SpecialItem]:
+library
+13
+bookshelf
+false
+UNUSED
+As I inspected the bookshelf it cracks and creaks. The bookshelf slowly moves itself and a door appears.
+false
+0
+false
+5
+10
+0
+true
+bookshelf,west
+secret room
